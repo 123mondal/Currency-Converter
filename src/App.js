@@ -1,10 +1,11 @@
 //Tanu Mondal I am from India.
 import './App.css';
+import Main from "./containers/Main/Main";
 
 function App() {
   return (
     <div className="App">
-      <h1 style={{margin: "10px"}}>Tanu Mondal</h1>
+      <Main />
     </div>
   );
 }
