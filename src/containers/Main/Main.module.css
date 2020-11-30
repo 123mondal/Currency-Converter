@@ -1,0 +1,15 @@
+.Main {
+    margin: 10px;
+}
+
+.UpDownLogo {
+    font-weight: bolder;
+    margin-bottom: 15px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.FormContainer {
+    width: 50%;
+    margin: 0px auto;
+}

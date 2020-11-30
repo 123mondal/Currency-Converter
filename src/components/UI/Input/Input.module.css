@@ -1,0 +1,25 @@
+.Input {
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+.CurrencyLogo {
+    padding: 10px;
+    background-color: royalblue;
+    color: white;
+    font-size: 30px;
+    min-width: 50px;
+    text-align: center;
+    border: 1px solid royalblue;
+
+}
+
+
+.ValueInput {
+    color: royalblue;
+    font-size: 22px;
+    border: 1px solid royalblue;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
